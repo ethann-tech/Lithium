@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/.idea/
+/local.properties
+/app/build/
+/app/src/androidTest/
+/app/src/test/
+/lithium-ksoap/build/
+/lithium-ksoap/src/androidTest/
+/lithium-ksoap/src/test/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
